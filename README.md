@@ -1,2 +1,2 @@
-# prometheus-scraper
-Scrape prometheus exposition format from HTTP endpoint to JSON
+# prometheus-probe-scraper
+Scrape prometheus exposition format from probe HTTP endpoint to JSON
